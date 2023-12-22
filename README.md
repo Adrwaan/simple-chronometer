@@ -7,7 +7,18 @@ Link: <a href="https://adrwaan.github.io/simple-chronometer/">Simple Chronometer
 ### In desktop:
 <img src="core/img.png">
 
-## Technologies used in this project
+### In Smartphones:
+  
+- #### Pixel 7:
+<img src="core/devices/Pixel7.png">
+
+- #### Samsung Galaxy S20:
+<img src="core/devices/Galaxy-S20.png">
+
+- #### Iphone 12 PRO:
+<img src="core/devices/Iphone-12PRO.png">
+
+## Technologies used in this project:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
