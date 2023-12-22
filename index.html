@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="chronometer.png" type="image/x-icon" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+      integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="src/style.css" />
+    <title>Simple Chronometer</title>
+  </head>
+  <body>
+    <div id="chrono-body">
+      <div id="chrono-time">
+        <div id="chrono-hours" class="chrono-timer">
+          <h1>00</h1>
+          <h2>Hours</h2>
+        </div>
+        <div id="chrono-minutes" class="chrono-timer">
+          <h1>00</h1>
+          <h2>Minutes</h2>
+        </div>
+        <div id="chrono-seconds" class="chrono-timer">
+          <h1>00</h1>
+          <h2>Seconds</h2>
+        </div>
+      </div>
+      <div class="chrono-actions">
+        <button id="chrono-start" class="chrono-btn chrono-btn-start">
+          <i class="fa-solid fa-bolt"></i> Start Chronometer
+        </button>
+        <button id="chrono-stop" class="chrono-btn chrono-btn-stop">
+          <i class="fa-solid fa-bolt"></i> Stop Chronometer
+        </button>
+        <button id="chrono-resume" class="chrono-btn chrono-btn-resume">
+          <i class="fa-solid fa-play"></i> Resume Chronometer
+        </button>
+        <button id="chrono-reset" class="chrono-btn chrono-btn-reset">
+          <i class="fa-solid fa-arrow-rotate-left"></i> Reset Chronometer
+        </button>
+      </div>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
