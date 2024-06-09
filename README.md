@@ -1,5 +1,7 @@
 # Cronometro Simples
 
+O projeto se trata de um cronometro simples para contagem de segundos, minutos e horas.
+
 Link preview do projeto: <a href="https://adrwaan.github.io/simple-chronometer/">Simple Chronometer</a>
 
 ## Visualização da páginas em dipositivos diversos:
