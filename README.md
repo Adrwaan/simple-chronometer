@@ -1,13 +1,13 @@
 # Cronometro Simples
 
-Link de acesso: <a href="https://adrwaan.github.io/simple-chronometer/">Simple Chronometer</a>
+Link preview do projeto: <a href="https://adrwaan.github.io/simple-chronometer/">Simple Chronometer</a>
 
 ## Visualização da páginas em dipositivos diversos:
 
-### Em desktop:
+### 1. Em desktop:
 <img src="core/img.png">
 
-### Em Smartphones:
+### 2. Em Smartphones:
   
 - #### Pixel 7:
 <img src="core/devices/Pixel7.png">
@@ -18,6 +18,16 @@ Link de acesso: <a href="https://adrwaan.github.io/simple-chronometer/">Simple C
 - #### Iphone 12 PRO:
 <img src="core/devices/Iphone-12PRO.png">
 
+<hr>
+
+## Especificações:
+O projeto foi feito com HTML, CSS e Typescript, usando o ambiente Vite.
+Use os comandos abaixo para fazer o build do projeto e o preview logo em seguida.
+```
+npm run build
+npm run preview
+```
+
 ## Tecnologias usadas no projeto:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,6 +36,4 @@ Link de acesso: <a href="https://adrwaan.github.io/simple-chronometer/">Simple C
 ![FontAwesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-## Author
-
-* Developed by [@Adrwaan](https://github.com/Adrwaan)
+* Desenvolvido por [@Adrwaan](https://github.com/Adrwaan)
