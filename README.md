@@ -1,13 +1,13 @@
-# Simple Chronometer
+# Cronometro Simples
 
-Link: <a href="https://adrwaan.github.io/simple-chronometer/">Simple Chronometer</a>
+Link de acesso: <a href="https://adrwaan.github.io/simple-chronometer/">Simple Chronometer</a>
 
-## Website page:
+## Visualização da páginas em dipositivos diversos:
 
-### In desktop:
+### Em desktop:
 <img src="core/img.png">
 
-### In Smartphones:
+### Em Smartphones:
   
 - #### Pixel 7:
 <img src="core/devices/Pixel7.png">
@@ -18,7 +18,7 @@ Link: <a href="https://adrwaan.github.io/simple-chronometer/">Simple Chronometer
 - #### Iphone 12 PRO:
 <img src="core/devices/Iphone-12PRO.png">
 
-## Technologies used in this project:
+## Tecnologias usadas no projeto:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
